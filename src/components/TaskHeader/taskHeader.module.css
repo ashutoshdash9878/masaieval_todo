@@ -1,0 +1,35 @@
+.taskHeader {
+height: 100px;
+width: 400px;
+
+border: 1px solid black;
+background-color: teal;
+
+margin: auto;
+margin-top: 10%;
+
+border-top-left-radius: 10px;
+border-top-right-radius:10px ;
+
+}
+
+.head{
+  color: white;
+  text-align: center;
+}
+
+
+.headd{
+  color: white;
+  text-align: center;
+  font-size: 10px;
+}
+
+.uncomp{
+  color: white;
+  margin-left: 80px;
+}
+
+.remain{
+  color: white;
+}
